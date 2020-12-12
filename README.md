@@ -1,8 +1,5 @@
-# Hi 👋, I'm Caluã
-### Designer/Programmer from Brazil
-## ...currently working on my master's & some odd projects @ [preface](https://www.preface.com.br)..
+### ...currently working on my master's & some odd projects @ [preface](https://www.preface.com.br)..
 
-<hr>
 <p align="left"><a href="https://twitter.com/calua" target="blank"><img src="https://img.shields.io/twitter/follow/calua?logo=twitter&style=for-the-badge" alt="calua" /></a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
