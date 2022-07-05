@@ -1,52 +1,5 @@
-```
-MMMNNNMMMMMMMNNNNNNNNNNNNNmNmNNNmmmmmmmmNNNNMNNmmmmddddmmmmmmmmmmmmmmmmmmmmmmmmmmNMMMMMNNMMNNohdhyss
-MMMMNNMMMMMMMNNmNNNNNNNNNNNNNNNNmmmmmmmmNNNNNNNmmNNNNNNmmddmmmmmmmmmmmmmmmmmmmNNNMNNNMMMMNhyyyyyyyyy
-MMMMMNNNMMMMMNNmNNNNNNNNNNNNNNMNNmmmmmmdNNNNNNNNNMMMMMMNmmmmmmmNNNNNmmmmmmmmmNNNNmmNNNNMNmhhhhhhhyyy
-MMMNMNNNMMMMMNNNmmNNNNNmNNNNNNNNMNmmmmmmNNmhyyyhmMMMMMMMNNNmmNNMMMMMNmmmmmmmmNd/:-/dmmNMNdhhhhhyhyys
-MMMMMNMMMMMMMNNNmmNNNNNNNNNNNmdNNNmmmmmmNd.`   `-dMMMMMMMNNNNNNNMMMMNmmmmmmmmNd//:-ohhMMNdhhhhhyyyys
-MMMMNNNMMMMNMMMMNmNNMMMMMMMMNddNMMNNNmmhho--...-:ohhhNMMMNNmy::dMMMMNmmmmNNNMMNyoshmNdmNMMNNdyhyyyys
-MMMMMNNNNNMMNNMMNNNMMMMMMMMNsyhhNNMMMNs:----....://:+NMMNNNh+:+omNMMNNmNNNNNmNNmmmmhhsyhhdMMmhhyyyys
-MMMMNMNNNNMMNNNMMNNNNMMMMMMm//+/mNNNMms:/yh-./:.:yddNMMNNmdm///ohNMMMMMNNNhysmmhyo:.//oyyyNMNhyyysso
-MMMNNNNNNNNMNNNNMd+ohNMMMMMd////yMNNMyooodh:`...::ymMMMmmmmm/:+ddddhNMMMNyooodhyo+:-.+shdydMMdysyyys
-MMMMNNNMNMMNNNNNMd/:/yNMMMMd+//+oNNNMsooohy+````-.yMMMdsshddo:ohmmhshMMMhssoshssssso+syyhyhNMNhosyys
-MMMMdNNNNNNNdNNNNd.-::yNMMMmyssyhmNmMyossymo.```-+mMMMdsosyyy+yyyyysyssdoosoydsssssyyyyyhhhdNMmssyss
-MMMMNMMNNNMNmNNNmd..-+dNMMMMMNNMMNddNdosymmh.```-/ydNMNmddhhhyyssshyyyhssossyyyssyyyyyhyhhhydNMdyysy
-MNMMMMNNNMMNNNNNh+-:ohMNMMMMMMMMMNmmMNsomNm/-` ``.../syyhdmMNmyssyNNhysosydmdyyysyssoyyhy/yyhmMNdyyy
-MMMMNMNMMMNNNNNs/+++:/NNNNNNMMMMMNMMMNyyho....` `.````--.-:dMMNyshMMMdssssyyhhysssossyyhdoyyyhNMNdyh
-MMMMMMMMMMNNNNmh-````:mNmmmmNMMMMNMMMN/-....`````  ..::--/:.sMMNyhMMMMmddyssss+++:-//shhdyhsohdmNmhh
-MMMMMMMMMNmdmNmNd+``.ymmNmdmmMMMMNMMN+..--//` ``  `-::---//..hMMmymMMMNNNm+syyoss++soshddy+/smdhmmmd
-MMMMMMNNNNmmmmmmNm/`ommmmmmdmNMMMMMMs-:-:-//-`    `---...-/-.:NMMdyMMNNmMNmNmhysyssyyyhhhyo/yMNddmmd
-MNNNMMMNNNmmmmmNNNmodmNmmmmdmNMMMMMd--:.---::-`  ``....-:::--./mMMdNMMNNNNNNNyyysoosyyyhyhdymNMNhhhy
-MNNNMNNNNNNmmNmmmmmmmmdmmmmmmNMMMMMo:-:-.-:-::-` `.-...-///--.`:NMNNMMMNNmNNNssyyssysyyhhhdhdmmmyyyy
-NNNNNNNNNNNmmNmmdddmmmdmmNmmmNMMMMN::.--//-//o/:-../-.`-oy//-..`/NMNMMMNNNNNNysysyyssyshhhdmNNNmhhyy
-NNNNNNNNNNNNNNNmNNmmmmmNNNNNmNMMMNo--.://:--:/+.:.`-..`-/:-o::.`.oNMMMMMNNNNNddhyyyhhhhddddmMMNmmddh
-NNNNNNNNNNNNNNNmmmmNNmmNmmmmNNNNy:.---:/md/::--.```.--.....s//.``.oMMMMMNNNNNmdmhhdddmmddhhdNMMmmmmd
-NNNNNmNNNNNNNNNmmNmmmmmmmmmNmms.``.--/+mNm/:/:.````.-..-..-sh+-.``.yMMMMMNNNNNdmhhdddNmddhhhNMMmmmmm
-NmmmmmNNNmNNMMmmmmmmmmmmmNmo:-``...:odNNNN/-:--- `..:---.--/hMs-``.:dMMMMNNmNNmmhhhhmMmmdhyhmMMNmmmm
-NmmmmNmy++NMMNNNNmdhdmNmmm- `..--oymNNmmmN+-/:-` ``.:--...--hMmo.``.:+MMNNmmmmmmhdhhNMmdddhydNMNmmmm
-NmmmmNh.:dNNNNNNNmdhmNNmdo..:ssddNmmmmmmmm+--:--:`..:::-:::/mMNs`  `+hNMMMNmmmNmhhhhNNmmdhhyyNMmdmmm
-NmmmNNmyooNNmmNMNdmMNMMMNy:/:smMMNmmmmmmmm//:::/s//::::/++++yMMNd+:`:ymNMMNNmmmNhhhdMNmmdddddmMNddmm
-NmmmmmmmmNNNmmmds//+syNy+/-.:+NMNmmmmmmmms::://+so/oo/++/:::+yNMMNm.`./yNMNmmmmmdhddMNNmmmmdmmNNdddd
-Nmmmmmmmmmmmmmmy:...-:ys-.../yMMmmmmmmmmo:---::::::+/+/:-----:/hMMMh/..omNNmmmmmmddmNMmmmmmmmmNNdddh
-Nmmmmmmmmmmmmmmms-..-/ym/-..+dMNmmmmmmms:---..-:---oo:::-:-..-:/omMMNy.oymmmmmmmmmmmmMmmmmmmmmNmmddh
-NNNmNmNNNmmmmmmmm+-..:sM+-..oNMmmmmmmmh:-..--:::/sdmmh+:-::----:/ohNMNhddddddddmmmmmmNmmmmmmmNmmmmmd
-Nmmmmmmmmmmmmmmmmh/..-+mo:-:yMNmmmmmmm/-....-://hNmmmmmh+:::+yhddhdmNMMMNmdhdddddmmmmNmmmmmmmmddmmmm
-Nmmmmmmmmmmmmmmmmmo:--+h+o:/dMNmmmmmmy:-...-::/dNmmmmmmmmy/:ymdysssshmMMMNdhhhhhdmmmmms/ossdmddddddm
-Nmmmmmmmmmmmmmmmmmh+::ohso++hMNdddmmd+-...-::+mmmmmmmmmmmmd+/ssssso++odMMMdhhhhhdmmmmmds/``/dddddhhh
-Nmmmmmmmmmmmmmmmmmdo+oyNNhhhmMmhddddy/---://yNmdddddddddmmmdh+/+so+:---dMNdhhhhhhdhso+yddo `:hhhhhdd
-NmmddmmmmmmmmmmmmmNmmNNMMMMNMMdddhhhyo///os+mMNmdhhddddddmddmd+:/:--...hMNhhhhhhhhh/::+ddho::yhhhhhh
-NmmmddmmddmmmmdmddmMMMMMMMMNMmhhdhhhyhhhhosssymNNdhhdhdddddddmy/::::--.hMmhhhhhhhhhhhhhhhhddhhhhhhhh
-NdddddddddddddddmmdNMMMMNMNNNhhhhhhhhhhhhyssssyhmNmdhhdhdhhhhd+://:::-.mNdyhhhhhhhhhhhhhhhhhhhhhhhhh
-mddddddddddddddddddmNNNMNNmMdhhhhhddhhysssyyyyhyyyhmhhhhhhhhhh+/////:--NNhhhhhhhhhhhhhhhhhhhhhhhhhhy
-NdddhdddddhdddhhhhddmNmNMNNMhhhhhhhdhhhhyyyyyyyyyy/-/mhhhhhhhy///+///:+Mmhhyhyhhhhhhhyhhhhhhhhhhhhhh
-mhdhdhhhdhhddhhhhhhdhNmNMNNMdhhhhhhhhhhhhhhyyhyyo-`..yhhhhhhhs//+++//:sMdyhhhhhhhhhhhddddmdhhhhhhhhy
-mhhhhhhhdhddddddddddhNmdMNNNNhhhhhhhdhhyhhhyyo+-``.-+yhhhhhhho/++++/+/dNhyyhhhdmhhhhhhdhhhhhhhhhhyhh
-mdhhhhhhhhddhhhhhhhhdNNmNmmddhhhyyyhyyyyyyy+..``.+syhyyyyhyyyo/+oo++++Nmyyyyyhhhhyyhyhhhyhhhhhhhhhhh
-mhhhhhhhhhdhhhhhdhhhdNNNmyyyyyyhyyyyyyyyyyy:..:/shyyyyyyyyyyy+/++++++oNhyyyyyhyyyyyyyyyhhhhhhhhhhhhy
-mhhhhhhdhdhhhhhhhhhhhhhhhyyyyhyyyyyyyyyyyyyyyyyyyyyyhyyyhyyyy`````+o+oyssyssyyyyyyyyyyhyyyyhhhhhhhhy
-mhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyhyyyhyyys     mmyysssyyyyyyyyyyyyyyyyyyhhhhyhhyy
-mhhhhhhhhhhhhyhhhhyhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyhhyyyyyyyo     :ymdhhhhdyyyyyyyyyyyyyyyyyyyyyyyys
-mdhhhhyhhyyyhyhhyhhhyyyyyyyyyyyyyyyyysyyhyyyhyyyyyyyhhyhyyys.       `:-::+mmyyyyyyyyyyyssyyyyoyhyyyy
-mdhdddddddmhyyhyhyyyyyyysyyyyysssssyyyyyyyyyhhyhyyyyyhyyhyy:       ```....+hyyyyyyyyyyssyyyyyssyyyys
-Nddmmmmmdddhyyyhhhyyyyyyyyyyyyyssyyyyhyyyhhyyyyyhhyyyyyyyyy-.....-------:+yyyssyyysyyyyssyyyyyyyyyys
-mhhhhhhhhhyyyhyyyyyyyyyyssyyyyyysyysyyyssssyyyyyyyyyyyyyyyyysooooossossyyyyyysyyyyssssyyyyyyysssssss
+Olá! I’m a Ph.D. student and Fulbright fellow in the Computing and Information Sciences Program at Rochester Institute of Technology. I am a member of the Center for Accessibility and Inclusion Research Lab ([CAIR](https://cair.rit.edu/)), where I am advised by [Matt Huenerfauth](https://huenerfauth.ist.rit.edu/) in accessibility research, with a focus on captioning technology.
+
+Previously, I obtained a master’s degree in Computer Engineering at the University of Campinas, working with [Paula Costa](https://pdpcosta.github.io/) on speech-modulated typography. My thesis can be found [here](https://repositorio.unicamp.br/acervo/detalhe/1241950).
+
+I am also a co-founder of [Preface](https://www.preface.com.br/), a design studio from Campinas, Brazil. Since 2007, we have worked with clients from many sectors, with a particular focus on [educational projects](https://www.olimpiadadedehistoria.com.br/). For my work as a designer there, I [have](https://www.instagram.com/p/CIna2X1BXNQ/) [won](https://www.instagram.com/p/B5Jl5pqBIrw/) [some](https://www.instagram.com/p/B2evRG2nWc6/) [awards](https://www.instagram.com/p/BqgLcmRFi1Z/).
