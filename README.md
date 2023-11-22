@@ -1,4 +1,4 @@
-Olá! I’m a Ph.D. student and Fulbright fellow in the Computing and Information Sciences Program at Rochester Institute of Technology. I am a member of the Center for Accessibility and Inclusion Research Lab ([CAIR](https://cair.rit.edu/)), where I am advised by [Matt Huenerfauth](https://huenerfauth.ist.rit.edu/) in accessibility research, with a focus on captioning technology.
+Olá! I’m a Ph.D. student and Fulbright fellow in the Computing and Information Sciences Program at Rochester Institute of Technology (RIT). I am co-advised by [Matt Huenerfauth](https://huenerfauth.ist.rit.edu/) and [Roshan Peiris](https://www.roshanpeiris.com/) in my research, which deals with speech accessibility and captioning technology. I am also a member of the Center for Accessibility and Inclusion Research Lab ([CAIR](https://cair.rit.edu/)).
 
 Previously, I obtained a master’s degree in Computer Engineering at the University of Campinas, working with [Paula Costa](https://pdpcosta.github.io/) on speech-modulated typography. My thesis can be found [here](https://repositorio.unicamp.br/acervo/detalhe/1241950).
 
